@@ -2,9 +2,7 @@ package com.nekoo.concurrency.aqs;
 
 import lombok.extern.slf4j.Slf4j;
 
-import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.FutureTask;
+import java.util.concurrent.*;
 
 /**
  * @author  qxnkeoo
